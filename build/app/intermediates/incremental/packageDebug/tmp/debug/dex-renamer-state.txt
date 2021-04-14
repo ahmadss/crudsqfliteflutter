@@ -1,0 +1,4 @@
+#Wed Apr 14 20:01:02 ICT 2021
+base.0=F\:\\android\\contoh\\contohaappflutter\\flutter_crud_sqflite_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
