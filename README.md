@@ -1,6 +1,8 @@
 # flutter_crud_sqflite_app
 
-A new Flutter application.
+Crud flutter dengan sqflite
+
+[![Watch the video](https://i9.ytimg.com/vi/K6Y_Ndt9c8g/mq2.jpg?sqp=CKza24MG&rs=AOn4CLDeETfrWnCBom7z0XANPzOqSCD27w)](https://youtu.be/K6Y_Ndt9c8g)
 
 ## Getting Started
 
